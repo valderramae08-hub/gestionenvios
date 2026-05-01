@@ -1,7 +1,7 @@
 <?php
 $conexion = new mysqli(
     "mysql-aldrinn.alwaysdata.net",
-    "aldrinn_db",
+    "aldrinn",
     "clase1234",
     "gestion_envios_db"
 );
