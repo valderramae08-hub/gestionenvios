@@ -3,7 +3,7 @@ $conexion = new mysqli(
     "mysql-aldrinn.alwaysdata.net",
     "aldrinn",
     "clase1234",
-    "gestion_envios_db"
+    "gestion_envios"
 );
 
 if ($conexion->connect_error) {
